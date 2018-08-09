@@ -17,7 +17,7 @@ function readFromRedis(id, done) {
 }
 
 function printResult(err, result) {
-	if (err) trow err;
+	if (err) throw err;
 	console.log(result);
 }
 
