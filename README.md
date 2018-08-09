@@ -1,5 +1,5 @@
 # async-merge-calls
-Merge duplicate asynchronous calls with other calls in progress
+Merge asynchronous calls with other duplicate calls in progress
 
 ## Example
 

@@ -1,7 +1,7 @@
 {
 	"name": "async-merge-calls",
 	"version": "0.1.0",
-	"description": "Merge duplicate asynchronous calls with other calls in progress",
+	"description": "Merge asynchronous calls with other duplicate calls in progress",
 	"main": "index.js",
 	"repository": "git@github.com:mikecote/async-merge-calls.git",
 	"author": "Mike Côté",
